@@ -26,38 +26,41 @@
 
 ## 👨‍💻 About Me
 
-I'm an engineer who enjoys **understanding how things work, automating the boring parts, and building things that solve real problems**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloud-Infrastructure-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-Building-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Exploring-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-Collaborating-F59E0B?style=flat-square" />
+</p>
 
-My background is primarily in **Cloud & Infrastructure**, but I'm continuously expanding into **DevOps, software development, automation, AI, open source, and modern engineering practices**.
+I'm an engineer who enjoys **building, automating, and continuously learning**.  
+My core background is in **Cloud & Infrastructure**, and I'm actively growing into **DevOps, software development, automation, AI, and modern engineering tools**.
 
-```yaml
-name: Shivam Singh
-focus:
-  - Cloud & Infrastructure
-  - DevOps & Automation
-  - Software & Tool Building
-  - AI & Emerging Technologies
+<table>
+<tr>
+<td valign="top" width="50%">
 
-currently_learning:
-  - Infrastructure as Code
-  - Containers & Kubernetes
-  - CI/CD
-  - Linux
-  - Python & Development
-  - AI-assisted Development
+### 🚀 What I Do
+- Work with **Cloud & Infrastructure**
+- Learn and build in **DevOps**
+- Create **automation scripts and tools**
+- Explore **modern engineering workflows**
 
-interests:
-  - Automation
-  - Platform Engineering
-  - Open Source
-  - Cloud Native
-  - Developer Tools
-  - AI & LLMs
+</td>
+<td valign="top" width="50%">
 
-mindset: "Learn → Build → Break → Fix → Improve → Repeat"
-```
+### 🌱 Currently Exploring
+- **Terraform & Ansible**
+- **Docker & Kubernetes**
+- **CI/CD & GitHub Actions**
+- **Python, APIs & AI tools**
 
-<br/>
+</td>
+</tr>
+</table>
+
+> **Mindset:** Learn → Build → Break → Fix → Improve → Repeat
 
 <!-- ===================== TECH ===================== -->
 
