@@ -1,25 +1,165 @@
-<h1 align="center">Hi there👋, I'm Shivam  Singh</h1>
-<h3 align="center">I am a Cloud Administrator and DevOps learner.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Linux, Anible**
+# Hi, I'm Shivam Singh 👋
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+### Cloud & DevOps Engineer | Azure • AWS • GCP • Terraform • Kubernetes
 
-- 🤝 I’m looking for help with **DevOps**
+I work with cloud infrastructure, automation, security, networking, and DevOps technologies, with a strong foundation in **Microsoft Azure** and growing multi-cloud experience across **AWS and GCP**.
 
-- 💬 Ask me about **Azure, AWS, Linux**
+I enjoy building reliable cloud environments, automating infrastructure, and improving the way systems are deployed, secured, monitored, and operated.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dope" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam-singh-cloudinfra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-singh-cloudinfra" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-singh-cloudinfra)
+[![GitHub](https://img.shields.io/badge/GitHub-chromazo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chromazo)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- ☁️ Working with **Cloud Infrastructure & Administration**
+- 🔧 Building hands-on expertise in **DevOps, Infrastructure as Code and Automation**
+- 🌐 Experience with **Azure, AWS and GCP**
+- 🏗️ Interested in **Cloud Architecture, Platform Engineering and Cloud-Native Infrastructure**
+- 🔐 Exploring **Cloud Security, IAM, monitoring and security operations**
+- 🐧 Comfortable working with **Linux and Windows cloud environments**
+- 🚀 Continuously building practical projects around **Terraform, Ansible, Docker, Kubernetes and CI/CD**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+### ⚙️ DevOps & Infrastructure as Code
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chromazo&show_icons=true&locale=en&layout=compact" alt="chromazo" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,jenkins" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chromazo&show_icons=true&locale=en" alt="chromazo" /></p>
+### 💻 Operating Systems & Scripting
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chromazo&" alt="chromazo" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,powershell,bash,python" />
+</p>
+
+### 🔧 Development & Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### 📊 Cloud Operations & Security
+
+`Azure Monitor` • `Log Analytics` • `Microsoft Sentinel` • `Microsoft Defender for Cloud` • `Prisma Cloud` • `IAM` • `RBAC` • `NSG` • `VPN` • `Cloud Networking`
+
+---
+
+## ☁️ Areas I Work With
+
+```text
+Cloud Infrastructure       Azure | AWS | GCP
+Infrastructure as Code     Terraform
+Configuration Management   Ansible
+Containers                 Docker | Kubernetes
+CI/CD                      Jenkins | Azure DevOps
+Operating Systems          Linux | Windows
+Cloud Networking           VNet | VPC | NSG | VPN | Peering
+Security                   IAM | RBAC | Defender | Sentinel | CSPM
+Monitoring                 Azure Monitor | Log Analytics
+Scripting                  PowerShell | Bash | Python
+Version Control            Git | GitHub
+```
+
+---
+
+## 🎯 Current Focus
+
+I'm currently strengthening my skills around:
+
+- Infrastructure as Code with **Terraform**
+- Configuration automation with **Ansible**
+- Container orchestration with **Kubernetes**
+- CI/CD and deployment automation
+- Advanced Linux administration
+- Multi-cloud architecture
+- Cloud security and observability
+- Platform Engineering practices
+
+---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--104%20Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+I'm building practical projects focused on real-world Cloud and DevOps scenarios.
+
+### 🔹 Infrastructure as Code
+Provision cloud infrastructure using **Terraform**, following reusable and modular IaC practices.
+
+### 🔹 Configuration Automation
+Automate Linux server configuration and application deployment using **Ansible**.
+
+### 🔹 Containerized Applications
+Build and deploy containerized workloads using **Docker and Kubernetes**.
+
+### 🔹 CI/CD Automation
+Create automated build, test and deployment pipelines using **Jenkins / Azure DevOps**.
+
+### 🔹 Cloud Security & Monitoring
+Hands-on projects around **IAM, RBAC, network security, monitoring, logging and cloud security controls**.
+
+> More projects and detailed documentation are being added progressively.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chromazo&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromazo&layout=compact&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chromazo&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing **Cloud, DevOps, Platform Engineering, Infrastructure Automation and Cloud Security**.
+
+<p>
+<a href="https://linkedin.com/in/shivam-singh-cloudinfra">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/chromazo">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ☁️ Build. Automate. Secure. Improve.
+
+</div>
