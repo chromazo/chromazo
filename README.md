@@ -23,10 +23,6 @@
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://x.com/dope">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;
 <a href="mailto:ssingh.wk99@gmail.com">
   <img src="https://img.shields.io/badge/Contact-21262D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -423,10 +419,6 @@ If you're working on something interesting and think I could contribute, **feel 
 
 <a href="https://github.com/chromazo">
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://x.com/dope">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:ssingh.wk99@gmail.com">
