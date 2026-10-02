@@ -8,8 +8,8 @@
 </p>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/about-mobile.svg">
-  <img src="assets/about.svg" width="100%" alt="Cloud roots. Builder mindset. I work in cloud infrastructure and learn by building apps, automations and experiments with AI. Always learning. Open to building together.">
+  <source media="(max-width: 600px)" srcset="about-mobile.svg">
+  <img src="about.svg" width="100%" alt="Cloud roots. Builder mindset. I work in cloud infrastructure and learn by building apps, automations and experiments with AI. Always learning. Open to building together.">
 </picture>
 
 ### On my workbench
@@ -23,16 +23,16 @@
 ### Tools along the way
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/toolkit-mobile.svg">
-  <img src="assets/toolkit.svg" width="100%" alt="Working with: Azure, AWS, Google Cloud, Linux, Git and PowerShell. Learning: Terraform, Ansible, Docker, Kubernetes, Python and GitHub Actions.">
+  <source media="(max-width: 600px)" srcset="toolkit-mobile.svg">
+  <img src="toolkit.svg" width="100%" alt="Working with: Azure, AWS, Google Cloud, Linux, Git and PowerShell. Learning: Terraform, Ansible, Docker, Kubernetes, Python and GitHub Actions.">
 </picture>
 
 <br>
 
 <a href="https://linkedin.com/in/shivam-singh-cloudinfra">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/contact-mobile.svg">
-  <img src="assets/contact.svg" width="100%" alt="Open to collaboration. Got an idea? Let’s build it. Apps, automation, open source and AI experiments. Connect on LinkedIn.">
+  <source media="(max-width: 600px)" srcset="contact-mobile.svg">
+  <img src="contact.svg" width="100%" alt="Open to collaboration. Got an idea? Let’s build it. Apps, automation, open source and AI experiments. Connect on LinkedIn.">
 </picture>
 </a>
 
