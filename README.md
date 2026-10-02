@@ -7,15 +7,10 @@
   <a href="https://linkedin.com/in/shivam-singh-cloudinfra">LinkedIn ↗</a>&nbsp;&nbsp; / &nbsp;&nbsp;<a href="https://github.com/chromazo?tab=repositories">Explore my repos ↗</a>
 </p>
 
-### A little about me
-
-I work in **cloud infrastructure**, but I like figuring out what else I can build.
-Right now, that means learning DevOps, making small apps and automations, and exploring AI.
-
-I like projects that start with **“there has to be an easier way to do this.”**
-Happy to learn alongside people who feel the same.
-
-<br>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/about-mobile.svg">
+  <img src="assets/about.svg" width="100%" alt="Cloud roots. Builder mindset. I work in cloud infrastructure and learn by building apps, automations and experiments with AI. Always learning. Open to building together.">
+</picture>
 
 ### On my workbench
 
@@ -27,24 +22,18 @@ Happy to learn alongside people who feel the same.
 
 ### Tools along the way
 
-**My foundation** &nbsp; <sub>Cloud &amp; infrastructure</sub>
-
-<img src="assets/foundation.svg" width="272" alt="Azure, AWS, Google Cloud, Linux, Git and PowerShell">
-
-**Learning by doing** &nbsp; <sub>DevOps &amp; development</sub>
-
-<img src="assets/learning.svg" width="272" alt="Terraform, Ansible, Docker, Kubernetes, Python and GitHub Actions">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/toolkit-mobile.svg">
+  <img src="assets/toolkit.svg" width="100%" alt="Working with: Azure, AWS, Google Cloud, Linux, Git and PowerShell. Learning: Terraform, Ansible, Docker, Kubernetes, Python and GitHub Actions.">
+</picture>
 
 <br>
 
----
-
-### Got something worth figuring out?
-
-A small app, an automation idea, an open-source contribution—I'm up for learning and building together.
-
 <a href="https://linkedin.com/in/shivam-singh-cloudinfra">
-  <img src="assets/linkedin.svg" width="206" alt="Let's connect on LinkedIn">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/contact-mobile.svg">
+  <img src="assets/contact.svg" width="100%" alt="Open to collaboration. Got an idea? Let’s build it. Apps, automation, open source and AI experiments. Connect on LinkedIn.">
+</picture>
 </a>
 
 <br>
